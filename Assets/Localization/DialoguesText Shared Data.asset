@@ -1,0 +1,267 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DialoguesText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DialoguesText
+  m_TableCollectionNameGuidString: 089a8ce5a2373aa4e80f4ccf0347f527
+  m_Entries:
+  - m_Id: 172177031168
+    m_Key: ' ChantSirenes_enterP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208478732288
+    m_Key: ChantSirenes_enterS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332298780672
+    m_Key: ChantSirenes_goodS1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336795074560
+    m_Key: ChantSirenes_goodS2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345892519936
+    m_Key: ChantSirenes_badS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249806828929024
+    m_Key: CarteDestin_Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249920096108544
+    m_Key: CarteDestin_good1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250028044910592
+    m_Key: CarteDestin_good2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250075738341376
+    m_Key: CarteDestin_bad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253622387277824
+    m_Key: NewRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255562349346816
+    m_Key: Introspec_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255632390029312
+    m_Key: Introspec_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255648621985792
+    m_Key: Introspec_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2801136168665088
+    m_Key: Sudoku_enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223299087626240
+    m_Key: Start1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243060907438080
+    m_Key: ChantSirenes_Indice1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243186925301760
+    m_Key: ChantSirenes_Indice2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243198358974464
+    m_Key: ChantSirenes_Indice3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244238990962688
+    m_Key: CarteDestin_Indice1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244312630358016
+    m_Key: CarteDestin_Indice2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244325494288384
+    m_Key: CarteDestin_Indice3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245658976776192
+    m_Key: Memory_Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245765390462976
+    m_Key: Memory_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245896739287040
+    m_Key: Memory_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245957758021632
+    m_Key: Memory_End1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246044080992256
+    m_Key: Memory_End2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246094693658624
+    m_Key: Memory_End3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246553248526336
+    m_Key: Pillars_Bad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246907289726976
+    m_Key: 'Pillars_Good
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3558509104820224
+    m_Key: Sudoku_Bad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3558639858053120
+    m_Key: Sudoku_Good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3599345716785152
+    m_Key: FindObjects_Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600608298758144
+    m_Key: FindObjects_Good1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600676984680448
+    m_Key: FindObjects_Good2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600767531315200
+    m_Key: FindObjects_GoodEnd1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600845633449984
+    m_Key: FindObjects_GoodEnd2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601092455657472
+    m_Key: FindObjects_Bad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601126572126208
+    m_Key: FindObjects_Indice1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601660389584896
+    m_Key: FindObjects_Indice2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601785488896000
+    m_Key: FindObjects_Indice3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3616901060063232
+    m_Key: Start2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3616915522023424
+    m_Key: Start3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3684994604036096
+    m_Key: Pillar_Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685043748696064
+    m_Key: Pillar_Good1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685264876597248
+    m_Key: Pillar_Good2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685455704846336
+    m_Key: Pillar_Bad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685652698722304
+    m_Key: Pillar_Indice1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685698475356160
+    m_Key: Pillar_Indice2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685709988720640
+    m_Key: Pillar_Indice3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705477692203008
+    m_Key: Langue_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705992773705728
+    m_Key: Connected_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708561185120256
+    m_Key: music_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708644895039488
+    m_Key: effect_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708879931252736
+    m_Key: back_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3709569386749952
+    m_Key: langue_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710066994782208
+    m_Key: Continue_mainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710141452066816
+    m_Key: Start_mainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710956761849856
+    m_Key: settings_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3711021102473216
+    m_Key: close_settings
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1206579170803450066
+  references:
+    version: 2
+    RefIds:
+    - rid: 1206579170803450066
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744904804953

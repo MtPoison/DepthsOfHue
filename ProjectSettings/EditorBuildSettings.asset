@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ebb2a236d67e2964faac27d872ec5f69
+  - enabled: 1
+    path: Assets/Scenes/Pathfinding_1.0.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room_1.unity
+    guid: a2ffbf6c71c937046b744734c82f1052
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room_Puzzle.unity
+    guid: 763c6af2ae2101949a391490558b4984
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room_2.unity
+    guid: 38149f38ddef233459d333347d916a19
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Enigme_Middle.unity
+    guid: c44383a231a32b04294cf4107879682b
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: d7f82a497520dfb4f8bbc2b521861599,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 33bf3bdc998aa4749b8e53a15fb4bde9,
+      type: 2}
+    guid: {fileID: 0}
+    path: {fileID: 0}

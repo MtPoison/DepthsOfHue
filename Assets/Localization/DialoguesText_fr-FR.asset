@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DialoguesText_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 089a8ce5a2373aa4e80f4ccf0347f527, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 172177031168
+    m_Localized: "Cette statue\u2026 elle semble m\u2019appeler."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208478732288
+    m_Localized: "\xC9coute le chant... ressens les courants\u2026 suis les couleurs..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332298780672
+    m_Localized: "Une v\xE9rit\xE9 t\u2019attend... mais chaque serrure a son myst\xE8re."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336795074560
+    m_Localized: '*Tend un morceau de fresque au plongeur*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345892519936
+    m_Localized: "Ce n\u2019est pas encore le bon chant\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249806828929024
+    m_Localized: "Ces dessins... ils correspondent \xE0 la carte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249920096108544
+    m_Localized: "La voie est ouverte... mais chaque pas t\u2019\xE9loigne de ce
+      que tu croyais savoir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250028044910592
+    m_Localized: "Je dois continuer\u2026 Une autre v\xE9rit\xE9 m\u2019attend derri\xE8re
+      cette porte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250075738341376
+    m_Localized: "Tes souvenirs sont confus\u2026 laisse-moi te rappeler que la carte
+      n\u2019est pas comme \xE7a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253622387277824
+    m_Localized: "Comme une impression d\u2019\xEAtre d\xE9j\xE0 venu ici... pourtant
+      c\u2019est bien la premi\xE8re fois que j\u2019explore cette pi\xE8ce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255562349346816
+    m_Localized: "Hmm\u2026 La m\xE9moire n'est pas une simple archive du pass\xE9,
+      mais une reconstruction dynamique influenc\xE9e par nos \xE9motions, nos attentes
+      et notre perception du pr\xE9sent. Toutes mes ann\xE9es d\u2019expertise dans
+      le domaine n\u2019ont fait que confirmer cela."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255632390029312
+    m_Localized: "Ecco\u2026 Acho\u2026 Eblyss\u2026 je n\u2019arrive pas \xE0 m\u2019en
+      souvenir\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255648621985792
+    m_Localized: "Avec mes connaissances, je devrais \xEAtre comme un poisson dans
+      l\u2019eau, et pourtant\u2026 nous en sommes toujours l\xE0."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2801136168665088
+    m_Localized: "Quatre chiffres... quatre couleurs. Peut-\xEAtre qu'aucun ne doit
+      se r\xE9p\xEAter sur une ligne ou une colonne. Un Sudoku ? Non, quelque chose
+      de plus..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223299087626240
+    m_Localized: "Naufrages de nombreux paquebots, temp\xEAtes impr\xE9visibles,
+      s\xE9ismes, tous ces \xE9v\xE9nements r\xE9cents semblent concorder et m\xE8nent
+      \xE0 un seul endroit, ici."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243060907438080
+    m_Localized: "Il semblerait que la statue \xE9mette une sorte de m\xE9lodie...
+      Comment la reproduire ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243186925301760
+    m_Localized: "\xC0 quoi peuvent bien servir ces coraux ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243198358974464
+    m_Localized: "Chacun de ces coraux \xE9met un son distinct... Serait-il possible
+      d'en tirer une m\xE9lodie ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244238990962688
+    m_Localized: "Cette carte semble r\xE9agir \xE0 un ordre pr\xE9cis... Comment
+      organiser ces lieux correctement ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244312630358016
+    m_Localized: "Peut-\xEAtre ai-je rat\xE9 des informations cach\xE9es dans les
+      salles adjacentes..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244325494288384
+    m_Localized: "Je crois avoir vu un dessin ressemblant \xE0 l'un des lieux dans
+      cette salle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245658976776192
+    m_Localized: "Dans cette salle, dix objets cherchent leur \xE2me s\u0153ur. Peux-tu
+      les r\xE9unir ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245765390462976
+    m_Localized: "Chaque paire me donne un objet \xE9trange... Mais \xE0 quoi peuvent-ils
+      bien servir ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245896739287040
+    m_Localized: Allez, plus que deux paires !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245957758021632
+    m_Localized: "Enfin r\xE9unis ! Merci d'avoir apais\xE9 ces \xE2mes perdues."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246044080992256
+    m_Localized: "Mais l'\xE9nigme n'est pas termin\xE9e... Ordonne les r\xE9compenses
+      que tu as re\xE7ues."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246094693658624
+    m_Localized: "Regarde autour de toi. La r\xE9ponse est inscrite depuis le d\xE9but."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246553248526336
+    m_Localized: "Ce n\u2019est pas le bon ordre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246907289726976
+    m_Localized: "Bien jou\xE9, tu peux maintenant continuer ton aventure, notre
+      r\xF4le s\u2019arr\xEAte ici\u2026. Bonne chance !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3558509104820224
+    m_Localized: "Les couleurs et chiffres se heurtent... \xE9coute mieux leur chant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3558639858053120
+    m_Localized: "Les nombres et les couleurs s'\xE9quilibrent... "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3599345716785152
+    m_Localized: "Des fragments perdus flottent dans ces eaux... Trouve-les avant
+      que le temps ne s'\xE9coule. Regarde leur forme, ignore les imposteurs aux
+      couleurs changeantes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600608298758144
+    m_Localized: "Une pi\xE8ce retrouv\xE9e... mais l'oc\xE9an cache encore ses secrets."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600676984680448
+    m_Localized: "La mer te reconna\xEEt... ach\xE8ve ce qu'elle a pr\xE9serv\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600767531315200
+    m_Localized: "Tu as dompt\xE9 les profondeurs... prends cette cl\xE9, et souviens-toi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600845633449984
+    m_Localized: '*Tend un morceau de fresque.*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601092455657472
+    m_Localized: "Le temps s'\xE9coule comme le sable... et emporte tes chances."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601126572126208
+    m_Localized: "Les textes flottants te guident... mais seuls les objets intacts
+      m\xE9ritent d'\xEAtre touch\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601660389584896
+    m_Localized: Le temps file comme le sable... les vrais fragments gardent leur
+      forme pure, contrairement aux reflets trompeurs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601785488896000
+    m_Localized: "Chaque pi\xE8ce authentique est unique... une fois trouv\xE9e,
+      elle rejoindra le courant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3616915522023424
+    m_Localized: "\xC9trangement, quelque chose me dit que je suis d\xE9j\xE0 venu
+      ici\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3616901060063232
+    m_Localized: "La Compagnie DeepReach m\u2019a envoy\xE9 explorer cette r\xE9gion
+      afin de d\xE9couvrir la source de tous ces incidents."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3684994604036096
+    m_Localized: "Les piliers murmurent leur symbole cach\xE9... Trouve ce qui leur
+      appartient, et l\u2019\xE9quilibre sera restaur\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685043748696064
+    m_Localized: "Les piliers s\u2019\xE9veillent... prends cette cl\xE9, et que
+      les abysses se souviennent de ton nom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685264876597248
+    m_Localized: '*Tend un morceau de fresque.*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685455704846336
+    m_Localized: Les piliers rejettent tes offrandes... cherche encore.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685652698722304
+    m_Localized: Les symboles ne mentent jamais... penche-toi, et tu les verras.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685698475356160
+    m_Localized: "Chaque objet a sa place... comme chaque \xE9toile a sa constellation."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685709988720640
+    m_Localized: "Compare les formes... l\u2019\xE9nigme est plus simple que les
+      ombres ne le laissent croire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705477692203008
+    m_Localized: Francais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705992773705728
+    m_Localized: Connecte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708561185120256
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708644895039488
+    m_Localized: Effets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708879931252736
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3709569386749952
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710066994782208
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710141452066816
+    m_Localized: Nouvelle partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710956761849856
+    m_Localized: Parametres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3711021102473216
+    m_Localized: Fermer
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

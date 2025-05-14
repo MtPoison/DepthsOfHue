@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DialoguesText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 089a8ce5a2373aa4e80f4ccf0347f527, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 3244312630358016
+    m_Localized: Perhaps I missed hidden clues in adjacent rooms...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244325494288384
+    m_Localized: I think I saw a drawing resembling one of the locations in this
+      chamber.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172177031168
+    m_Localized: This statue... it seems to be calling me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208478732288
+    m_Localized: Listen to the song... feel the currents... follow the colors...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332298780672
+    m_Localized: A truth awaits you... but every lock has its mystery.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336795074560
+    m_Localized: '*Hands a fragment to the diver*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345892519936
+    m_Localized: This isn't the right song yet...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249806828929024
+    m_Localized: These drawings... they match the map.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249920096108544
+    m_Localized: The path is open... but each step takes you further from what you
+      thought you knew.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250028044910592
+    m_Localized: I must continue... Another truth awaits behind this door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250075738341376
+    m_Localized: Your memories are confused... let me remind you that the map isn't
+      like that.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 253622387277824
+    m_Localized: Like a feeling I've been here before... yet this is clearly my first
+      time in this chamber.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255562349346816
+    m_Localized: Hmm... Memory isn't just an archive of the past, but a dynamic reconstruction
+      influenced by our emotions, expectations, and present perception. All my years
+      of expertise have only confirmed this.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255632390029312
+    m_Localized: Ecco... Acho... Ebyss... I can't seem to remember...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255648621985792
+    m_Localized: With my knowledge, I should be like a fish in water, and yet...
+      here we still are.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2801136168665088
+    m_Localized: Four numbers... four colors. Perhaps none can repeat in any row
+      or column. A Sudoku? No, something more...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3223299087626240
+    m_Localized: 'Shipwrecks of numerous liners, unpredictable storms, earthquakes
+      - all these recent events seem to converge and lead to one place: here.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243060907438080
+    m_Localized: It seems the statue emits some kind of melody... How to reproduce
+      it?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243186925301760
+    m_Localized: What could these corals possibly be for?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3243198358974464
+    m_Localized: Each of these corals emits a distinct sound... Could they form a
+      melody?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244238990962688
+    m_Localized: This map seems to respond to a specific order... How to arrange
+      these places correctly?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245658976776192
+    m_Localized: In this room, ten objects seek their soulmates. Can you reunite
+      them?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245765390462976
+    m_Localized: Each pair gives me a strange object... But what could they be for?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245896739287040
+    m_Localized: Come on, just two pairs left!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3245957758021632
+    m_Localized: Finally reunited! Thank you for soothing these lost souls.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246044080992256
+    m_Localized: But the puzzle isn't complete... Arrange the rewards you've received.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246094693658624
+    m_Localized: Look around you. The answer has been here all along.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246553248526336
+    m_Localized: That's not the right order.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3246907289726976
+    m_Localized: Well done, you may now continue your adventure, our role ends here...
+      Good luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3558509104820224
+    m_Localized: The colors and numbers clash... listen closer to their song.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3558639858053120
+    m_Localized: Numbers and colors find their balance...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3599345716785152
+    m_Localized: Lost fragments float in these waters... Find them before time runs
+      out. Watch their form, ignore the imposters with shifting colors.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600608298758144
+    m_Localized: One piece recovered... but the ocean still hides its secrets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600845633449984
+    m_Localized: '*Hands a fragment to the diver*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600767531315200
+    m_Localized: You've mastered the depths... take this key, and remember.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3600676984680448
+    m_Localized: The sea recognizes you... complete what it has preserved.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601092455657472
+    m_Localized: Time flows like sand... and carries away your chances.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601126572126208
+    m_Localized: The floating texts guide you... but only the intact objects are
+      worth touching.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601660389584896
+    m_Localized: Time runs like sand... the true fragments keep their pure form,
+      unlike the deceptive reflections.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3601785488896000
+    m_Localized: Each authentic piece is unique... once found, it will join the current.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3616901060063232
+    m_Localized: DeepReach Company sent me to explore this region and discover the
+      source of all these incidents.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3616915522023424
+    m_Localized: Strangely, something tells me I've been here before...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3684994604036096
+    m_Localized: The pillars whisper their hidden symbols... Find what belongs to
+      them, and balance will be restored.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685043748696064
+    m_Localized: The pillars awaken... take this key, and may the abyss remember
+      your name.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685264876597248
+    m_Localized: '*Hands a fragment to the diver*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685455704846336
+    m_Localized: The pillars reject your offerings... keep searching.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685652698722304
+    m_Localized: The symbols never lie... lean closer, and you'll see them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685698475356160
+    m_Localized: Each object has its place... like every star has its constellation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3685709988720640
+    m_Localized: Compare the shapes... the puzzle is simpler than the shadows would
+      have you believe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705477692203008
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705992773705728
+    m_Localized: Connected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708561185120256
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708644895039488
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708879931252736
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3709569386749952
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710066994782208
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710141452066816
+    m_Localized: Start new game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3710956761849856
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3711021102473216
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

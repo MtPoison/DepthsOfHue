@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8da2fdd88ae8f74ab82d516c27daf8c, type: 3}
+  m_Name: CarteDestin_good
+  m_EditorClassIdentifier: 
+  dialogues:
+  - npc: "Voix Ext\xE9rieures"
+    image: {fileID: 0}
+    dialogueKey: CarteDestin_good1
+  - npc: Plongeur
+    image: {fileID: 0}
+    dialogueKey: CarteDestin_good2
+  tableKey: DialoguesText
